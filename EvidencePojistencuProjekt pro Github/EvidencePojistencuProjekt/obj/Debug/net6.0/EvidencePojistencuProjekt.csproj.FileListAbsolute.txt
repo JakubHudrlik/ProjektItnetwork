@@ -1,0 +1,15 @@
+C:\Users\kubah\Dropbox\Csharp\EvidencePojistencuProjekt\EvidencePojistencuProjekt\bin\Debug\net6.0\EvidencePojistencuProjekt.exe
+C:\Users\kubah\Dropbox\Csharp\EvidencePojistencuProjekt\EvidencePojistencuProjekt\bin\Debug\net6.0\EvidencePojistencuProjekt.deps.json
+C:\Users\kubah\Dropbox\Csharp\EvidencePojistencuProjekt\EvidencePojistencuProjekt\bin\Debug\net6.0\EvidencePojistencuProjekt.runtimeconfig.json
+C:\Users\kubah\Dropbox\Csharp\EvidencePojistencuProjekt\EvidencePojistencuProjekt\bin\Debug\net6.0\EvidencePojistencuProjekt.dll
+C:\Users\kubah\Dropbox\Csharp\EvidencePojistencuProjekt\EvidencePojistencuProjekt\bin\Debug\net6.0\EvidencePojistencuProjekt.pdb
+C:\Users\kubah\Dropbox\Csharp\EvidencePojistencuProjekt\EvidencePojistencuProjekt\obj\Debug\net6.0\EvidencePojistencuProjekt.csproj.AssemblyReference.cache
+C:\Users\kubah\Dropbox\Csharp\EvidencePojistencuProjekt\EvidencePojistencuProjekt\obj\Debug\net6.0\EvidencePojistencuProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubah\Dropbox\Csharp\EvidencePojistencuProjekt\EvidencePojistencuProjekt\obj\Debug\net6.0\EvidencePojistencuProjekt.AssemblyInfoInputs.cache
+C:\Users\kubah\Dropbox\Csharp\EvidencePojistencuProjekt\EvidencePojistencuProjekt\obj\Debug\net6.0\EvidencePojistencuProjekt.AssemblyInfo.cs
+C:\Users\kubah\Dropbox\Csharp\EvidencePojistencuProjekt\EvidencePojistencuProjekt\obj\Debug\net6.0\EvidencePojistencuProjekt.csproj.CoreCompileInputs.cache
+C:\Users\kubah\Dropbox\Csharp\EvidencePojistencuProjekt\EvidencePojistencuProjekt\obj\Debug\net6.0\EvidencePojistencuProjekt.dll
+C:\Users\kubah\Dropbox\Csharp\EvidencePojistencuProjekt\EvidencePojistencuProjekt\obj\Debug\net6.0\refint\EvidencePojistencuProjekt.dll
+C:\Users\kubah\Dropbox\Csharp\EvidencePojistencuProjekt\EvidencePojistencuProjekt\obj\Debug\net6.0\EvidencePojistencuProjekt.pdb
+C:\Users\kubah\Dropbox\Csharp\EvidencePojistencuProjekt\EvidencePojistencuProjekt\obj\Debug\net6.0\EvidencePojistencuProjekt.genruntimeconfig.cache
+C:\Users\kubah\Dropbox\Csharp\EvidencePojistencuProjekt\EvidencePojistencuProjekt\obj\Debug\net6.0\ref\EvidencePojistencuProjekt.dll
